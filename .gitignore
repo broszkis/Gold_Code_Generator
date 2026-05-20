@@ -1,0 +1,16 @@
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+*.vcd
+vivado_pid*.str
+
+.Xil/
+*/.Xil/
+*/*.cache/
+*/*.hw/
+*/*.ip_user_files/
+*/*.runs/
+*/*.sim/
