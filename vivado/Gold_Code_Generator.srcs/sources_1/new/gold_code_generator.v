@@ -17,7 +17,7 @@ module gold_code_generator #(
 
     reg [REG_WIDTH-1:0] lfsr_a;
     reg [REG_WIDTH-1:0] lfsr_b;
-
+    
     wire feedback_a;
     wire feedback_b;
 

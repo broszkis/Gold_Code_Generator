@@ -1,23 +1,19 @@
+# --- ŚMIECI VIVADO (GENERAŁY) ---
 *.log
 *.jou
 *.str
+*.tmp
 .Xil/
 vcs_lab/
-
-*.runs/
 *.cache/
+*.runs/
 *.hw/
-*.ip_user_files/
 *.sim/
-
+*.ip_user_files/
 *.sdk/
 *.pblock/
-*.bxml
 *.html
-*.xml
-
 *~
 .#*
-
 Thumbs.db
 .DS_Store

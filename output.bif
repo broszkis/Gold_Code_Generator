@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\Users\Ksawery\Gold_Code_Generator\vivado\Gold_Code_Generator.sdk\fsbl\Debug\fsbl.elf
+	C:\Users\Ksawery\Gold_Code_Generator\vivado\Gold_Code_Generator.runs\impl_1\system_design_wrapper.bit
+	C:\Users\Ksawery\Gold_Code_Generator\vivado\Gold_Code_Generator.sdk\empty\Debug\empty.elf
+}
